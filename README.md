@@ -1,3 +1,18 @@
+# Warning
+
+This project is not maintained and is intended to be archived as of the 1st of November, 2020. If you are using this project, please let us know before then.
+
+
+
+
+
+
+
+
+
+
+
+
 CEOS Data Cube UI
 =================
 
